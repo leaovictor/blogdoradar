@@ -42,8 +42,23 @@ body {
 
 }
 
+.div-sticky {
+    position: sticky;
+    top: 130px;
+    
+}
+
+.img-float-sticky {
+    float: right;
+}
+
 .img-float-right {
     float: right;
+}
+
+
+.img-float {
+    float: left;
 }
 
 .div-float {
@@ -56,6 +71,7 @@ body {
 
 .container {
     padding: 50px;
+    margin-right: 300px;
 }
 
 p {
